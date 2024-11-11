@@ -7,5 +7,5 @@ document.addEventListener("contextmenu", function (e) {
 });
 
 const btn = document.querySelector(".download").addEventListener("click", function(){
-  window.open("https://github.com/havker02/Movies-Hub/releases/download/MoviesHub_v2.1.4n/MoviesHub_v2.1.4n.apk","_blank");
+  window.open("https://github.com/havker02/Movies-Hub/releases/download/MoviesHub/MOVIESHUBV2.1.4o.apk","_blank");
 });
